@@ -4,7 +4,7 @@ Simple typescript example deploying an AWS lambda function.
 ### Setup
 ```
 npm i serverless -g
-
+npm install
 ```
 ### Local development
 ```
