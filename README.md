@@ -1,4 +1,4 @@
-#serverless-aws-lambda
+# serverless-aws-lambda
 Simple typescript example deploying an AWS lambda function.
 
 ### Setup
