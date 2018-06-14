@@ -1,0 +1,16 @@
+{
+  "name": "serverless-aws-lambda",
+  "version": "1.0.0",
+  "description": "Simple typescript example deploying an AWS lambda function.",
+  "main": "handler.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wouter Van Vlaenderen",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.6",
+    "serverless-offline": "^3.25.4",
+    "serverless-plugin-typescript": "^1.1.5"
+  }
+}
